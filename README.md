@@ -44,3 +44,7 @@ This dashboard enables organizations to:
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Superstore Dataset
+
+## 📸 Dashboard Preview
+![Superstore Sales Dashboard](https://github.com/pritampp/Superstore-sale-Dashboard/raw/main/Superstore%20Sales%20Dashboard.png)
+
